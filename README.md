@@ -46,9 +46,6 @@ This project aims to answer the following questions:
   - `scikit-learn` (for topic modeling)  
   - `VADER` (for sentiment analysis)
  
-## Project Limitations
-The biggest limitation in this project is that the size of the dataset that was used for modelling was very small. Screen time data was recorded 349 times and steps data was recorded 353 times out of the 365 days in the year and the journal entries were only available 70 times. This reduced the size of the final dataset to only about 65 instances on days that had all the three variables available with data.
-
 ## Project Limitations  
 The limited dataset size affects the robustness of the analysis and the reliability of predictive models, as smaller datasets may not capture the full range of variability or allow for generalizable insights. Future iterations of this project could benefit from:  
 - **More frequent journaling**: Increasing the availability of journal entries.  

@@ -27,7 +27,8 @@ This project aims to answer the following questions:
 - **Key Features**:  
   - **Exploratory Data Analysis (EDA)**: Investigate patterns and correlations among screen time, steps, and sentiment scores.  
   - **Data Integration**: Combine all variables (screen time, steps, and sentiment scores) into a unified dataset.  
-  - **Modeling**: Predict sentiment scores based on screen time and physical activity.  
+  - **Modeling**: Predict sentiment scores based on screen time and physical activity.
+  - **Explanation of Modeling Results**: A detailed explanation of what the results mean. 
 
 ## Data Privacy  
 - The raw journal entries are private and excluded from the repository.  
